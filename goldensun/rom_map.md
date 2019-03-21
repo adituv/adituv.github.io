@@ -10,7 +10,7 @@ Cartridge header; see GBATek for details.  Entry point: [`arm_start@080003c0`](#
 
 TODO: thunk table
 
-## 0x080003c0 - `arm_start`
+## 0x080003c0 - arm\_start
 
 Prototype: `void arm_start(void)`
 
@@ -37,10 +37,10 @@ Referenced symbols:
 * [`userIrqHandler_src@08000770`](#0x08000770---userirqhandler_src)
 * [`thumb_start@08002e00`](#0x08002e00---thumb_start)
 
-## 0x08000770 - `userIrqHandler_src`
+## 0x08000770 - userIrqHandler\_src
 
 ... todo
 
-## 0x08002e00 - `thumb_start`
+## 0x08002e00 - thumb\_start
 
 ... todo
